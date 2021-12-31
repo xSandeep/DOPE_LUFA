@@ -9,9 +9,9 @@
     <p align="center">
     
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+Ajuser+WA+Bot...;Created+by+Aju....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=000EF7&lines=Welcome+to+DOPE-LUFA+WA+Bot...;Created+by+DOPE_LUFA👽....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
   
-<a href="#"><img title="DOPE_LUFA👽" src="https://img.shields.io/badge/-Ajuser-blue?&style=for-the-badge"></a>
+<a href="#"><img title="DOPE_LUFA👽" src="https://img.shields.io/badge/-DOPE-LUFA-blue?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -19,7 +19,7 @@
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/xSandeep">aju</a> to make it public
+Project created by <a href="https://github.com/xSandeep">lufa</a> to make it public
     <br>
        | © |
         Reserved |
@@ -66,7 +66,7 @@ Since it is an open source project, anyone can copy the software, add and remove
 and use it in a way that they customize. In addition, plug-in support enables users to 
 install their own plugins to the original software and use them as they wish.
 Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Ajuser Userbot is an 
+Usage is entirely the user's responsibility, DOPE-LUFA Userbot is an 
 infrastructure only. Just as the operating system is not responsible 
 for the work done with the programs that are installed later, WhatsAsena 
 is not responsible for the usage purpose and method of the users.
